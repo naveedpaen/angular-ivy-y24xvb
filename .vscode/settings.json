@@ -1,0 +1,53 @@
+
+  {
+    "workbench.iconTheme": "material-icon-theme",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.tabSize": 3,
+    "editor.formatOnSave": false,
+    "window.zoomLevel": 0.9,
+    "editor.fontSize": 18,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "sync.gist": "ca62e3235593eca13f874d3fa1bcf5b8",
+    "workbench.activityBar.visible": true,
+    "editor.mouseWheelZoom": true,
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[xml]": {
+    
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "prettier.printWidth": 150,
+    "prettier.tabWidth": 5,
+    "prettier.singleQuote": true,
+    "typescript.preferences.quoteStyle": "single",
+  
+    // remote
+  
+    // "editor.codeActionsOnSave": {
+    // 	"source.fixAll.eslint": true,
+    // },
+    "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+   },
+   "editor.quickSuggestionsDelay": 0,
+   "editor.maxTokenizationLineLength": 80000000,
+   // "prettier.embeddedLanguageFormatting": "off",
+   "diffEditor.ignoreTrimWhitespace": false,
+   "editor.accessibilitySupport": "off",
+   "editor.minimap.size": "fill",
+   "angular.experimental-ivy": true,
+   "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Default Dark+"
+  }
